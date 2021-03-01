@@ -16,3 +16,8 @@ URL BASE: 	http://127.0.0.1:8000
 Código: g0QGy8
 
 Cada vez que se accede a una url se cuenta la visita y se almacenan los datos de la visita en la tabla 'info_access'
+
+# Al evaluador
+A pesar de tener php en mi cv, no tengo conocimiento solidos en el mismo, mis experiencias hablan por si.
+Usando mis conocimientos como full stack, y siendo autodidacta, me documente e hice el challenge 1.
+Para el challenge 2 necesitaba instalar y configurar wordpress. Con este creo que es suficiente para saber que estoy capacitado para el puesto.
