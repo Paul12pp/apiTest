@@ -15,4 +15,4 @@ Ejemplo: 	http://127.0.0.1:8000/g0QGy8
 URL BASE: 	http://127.0.0.1:8000
 Código: g0QGy8
 
-Cada ves que se accede a una url se cuenta la visita y se almacenan los datos de la visita en la tabla 'info_access'
+Cada vez que se accede a una url se cuenta la visita y se almacenan los datos de la visita en la tabla 'info_access'
